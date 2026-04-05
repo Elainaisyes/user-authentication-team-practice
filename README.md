@@ -8,4 +8,4 @@ After that, install the dependencies by running **pip install -r requirements.tx
 This will install all the Django modules into the virtual environment (venv). Immediately after, run **pip install psycopg2-binary** This should work now!
 
 # UPON DOWNLOAD (FRONTEND)
-In the integrated terminal, ensuring that it paths to frontend and not backend, **if you don't see node_modules in the frontend folder, run npm install**. After this, if you want to run the website, run **npm run dev**. After this ensure the website has the working styling, registering, login, and more, if not let Elaina know. Yes, the login only displays a successful login message, there is no dashboard as this is just practice. 
+In the integrated terminal, ensuring that it paths to frontend and not backend, run **npm install**. After this, if you want to run the website, run **npm run dev**. After this ensure the website has the working styling, registering, login, and more, if not let Elaina know. Yes, the login only displays a successful login message, there is no dashboard as this is just practice. 
